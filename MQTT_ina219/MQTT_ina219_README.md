@@ -7,3 +7,4 @@ Grounds (GND): Connect ALL grounds together. Power source ground, load ground, I
 ★If the measurements are inaccurate, it could be an issue with the load.
 
 <img width="517" alt="截圖 2023-12-08 下午4 40 29" src="https://github.com/diyun1225/ESP32_sensor/assets/85143749/3e859fa2-66d7-4d80-98d7-b0e841045928">
+ALL GND SAME PLS
